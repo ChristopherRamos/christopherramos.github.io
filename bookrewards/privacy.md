@@ -6,7 +6,7 @@ title: BookRewards Privacy Policy
 
 Effective September 25, 2026
 
-BookRewards ("the app") lets a parent or other adult (the "Sponsor") set up reading challenges for a child (the "Reader"), such as finishing a book by a target date in exchange for a reward. This policy explains what information the app collects, how it is used, and the choices you have. Questions can be sent to [info@chrisramos.com](mailto:info@chrisramos.com).
+BookRewards ("the app") lets a parent or other adult (the "Sponsor") set up reading challenges for a child (the "Reader"), such as finishing a book by a target date in exchange for a reward. This policy explains what information the app collects, how it is used, and the choices you have. Questions can be sent to [chrisramos@me.com](mailto:chrisramos@me.com).
 
 ## Who the app is for
 
@@ -45,7 +45,7 @@ Rewards in BookRewards are free text that you write, such as "movie night." No m
 
 ## Retention and deleting your data
 
-We keep your data until you delete it. You can delete a single challenge from the My Challenges screen. To delete your account, tap **Delete account** at the bottom of the My Challenges screen. This permanently removes your account and all associated Readers, challenges, quizzes, and reading logs. You can also email [info@chrisramos.com](mailto:info@chrisramos.com) to request deletion. Backups and logs held by our providers may persist for a short period before they are purged.
+We keep your data until you delete it. You can delete a single challenge from the My Challenges screen. To delete your account, tap **Delete account** at the bottom of the My Challenges screen. This permanently removes your account and all associated Readers, challenges, quizzes, and reading logs. You can also email [chrisramos@me.com](mailto:chrisramos@me.com) to request deletion. Backups and logs held by our providers may persist for a short period before they are purged.
 
 ## Security
 
@@ -57,7 +57,7 @@ You can review, correct, or delete your information in the app or by emailing us
 
 ## Children's privacy
 
-If you believe a child has provided personal information to us directly, email [info@chrisramos.com](mailto:info@chrisramos.com) and we will delete it.
+If you believe a child has provided personal information to us directly, email [chrisramos@me.com](mailto:chrisramos@me.com) and we will delete it.
 
 ## Changes to this policy
 
@@ -66,6 +66,6 @@ If we change this policy we will update the date at the top. Material changes wi
 ## Contact
 
 BookRewards  
-[info@chrisramos.com](mailto:info@chrisramos.com)
+[chrisramos@me.com](mailto:chrisramos@me.com)
 
 [Back to BookRewards support](./)
