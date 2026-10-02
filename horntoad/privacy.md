@@ -18,6 +18,6 @@ Your choice of Inland or International rules is kept only while the app is open 
 
 ## Contact
 
-Questions about this policy: [info@chrisramos.com](mailto:info@chrisramos.com)
+Questions about this policy: [chrisramos@me.com](mailto:chrisramos@me.com)
 
 [Back to HornToad support](./)
