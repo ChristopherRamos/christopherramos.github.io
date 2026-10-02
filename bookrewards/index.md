@@ -4,7 +4,7 @@ title: BookRewards Support
 
 # BookRewards Support
 
-Need help or have feedback? Email [info@chrisramos.com](mailto:info@chrisramos.com) and we'll get back to you.
+Need help or have feedback? Email [chrisramos@me.com](mailto:chrisramos@me.com) and we'll get back to you.
 
 ## How do I delete my account?
 
