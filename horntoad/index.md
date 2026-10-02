@@ -12,7 +12,7 @@ HornToad is for education only. It is not a navigation aid and does not replace 
 
 ## Support
 
-Questions, bug reports, or a signal you think is wrong? Email [info@chrisramos.com](mailto:info@chrisramos.com).
+Questions, bug reports, or a signal you think is wrong? Email [chrisramos@me.com](mailto:chrisramos@me.com).
 
 ## Common questions
 
