@@ -8,6 +8,7 @@ Each app gets its own folder with an `index.md` (support page) and `privacy.md` 
 | App | Support | Privacy policy |
 |---|---|---|
 | HornToad | `/horntoad/` | `/horntoad/privacy` |
+| Skippers Edge | `/skippersedge/` | `/skippersedge/privacy` |
 | BookRewards | `/bookrewards/` | `/bookrewards/privacy` |
 
 Only put content here that is meant to be public. App source code lives in separate private repos.
