@@ -49,7 +49,7 @@ Rewards in BookRewards are free text that you write, such as "movie night." No m
 
 ## Retention and deleting your data
 
-We keep your data until you delete it. You can delete a single challenge from the My Challenges screen, or delete a Reader (and all of their challenges and reading history) from that Reader's page under the Readers tab. To delete your account, tap **Delete account** at the bottom of the My Challenges screen. This permanently removes your account and all associated Readers, challenges, checkpoints, chat questions, quizzes, and reading logs. You can also email [chrisramos@me.com](mailto:chrisramos@me.com) to request deletion. Backups and logs held by our providers may persist for a short period before they are purged.
+We keep your data until you delete it. You can delete a single challenge from the home screen, or delete a Reader (and all of their challenges and reading history) from that Reader's page under the Readers tab. To delete your account, tap **Delete account** at the bottom of the Challenges tab on the home screen. This permanently removes your account and all associated Readers, challenges, checkpoints, chat questions, quizzes, and reading logs. You can also email [chrisramos@me.com](mailto:chrisramos@me.com) to request deletion. Backups and logs held by our providers may persist for a short period before they are purged.
 
 ## Security
 

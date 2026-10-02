@@ -12,15 +12,15 @@ On the sign-in screen, type your email address and tap **Forgot password?**. We'
 
 ## How do I delete my account?
 
-Open the app, go to **My Challenges**, scroll to the bottom, and tap **Delete account**. This permanently removes your account and all of your challenges, readers, chat questions, quizzes, and reading logs.
+Open the app's home screen, scroll to the bottom of the **Challenges** tab, and tap **Delete account**. This permanently removes your account and all of your challenges, readers, chat questions, quizzes, and reading logs.
 
 ## How do I rename or delete a reader?
 
-On **My Challenges**, open the **Readers** tab and tap the reader. Tap **Rename** to change their name. To remove them, tap **Delete** at the bottom of their page. This permanently deletes the reader along with all of their challenges and reading history.
+On the home screen, open the **Readers** tab and tap the reader. Tap **Rename** to change their name. To remove them, tap **Delete** at the bottom of their page. This permanently deletes the reader along with all of their challenges and reading history.
 
 ## How do I delete just one challenge?
 
-On **My Challenges**, tap **Delete** on that challenge's card.
+On the home screen's **Challenges** tab, tap **Delete** on that challenge's card.
 
 ## Does BookRewards handle real money?
 
@@ -36,6 +36,6 @@ Yes. When you create a challenge, choose **My own quiz** under **How to check ea
 
 ## Can I write my own chat questions?
 
-Yes. On **My Challenges**, tap **My chat questions**. Type a question, choose which kind of book it suits (or any book), and optionally limit it to the last checkpoint. Your questions are mixed in with the built-in ones, and you can delete any of them later.
+Yes. On the home screen's **Challenges** tab, tap **My chat questions**. Type a question, choose which kind of book it suits (or any book), and optionally limit it to the last checkpoint. Your questions are mixed in with the built-in ones, and you can delete any of them later.
 
 [Privacy Policy](privacy)
